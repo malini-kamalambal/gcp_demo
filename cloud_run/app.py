@@ -58,7 +58,7 @@ def index():
     # [END run_manual_logging]
     # [END cloudrun_manual_logging]
 
-    return "Hello Logger!"
+    return "Hello Logger!!"
 
 
 if __name__ == "__main__":
